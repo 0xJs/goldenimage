@@ -7,5 +7,3 @@ Usage: ./golden_image.sh [-u] [-i] [-g] [-r]
 [-r] To restart the system after completion of the script
 
 If you got a clean kali light system use ./golden_image.sh -igr
-
-let me do a test
