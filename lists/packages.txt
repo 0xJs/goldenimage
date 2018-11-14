@@ -43,4 +43,5 @@ curl
 nano
 vim
 gcc
-seclists
+openvpn
+systemctl

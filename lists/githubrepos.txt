@@ -14,3 +14,5 @@ https://github.com/PowerShellEmpire/PowerTools
 https://github.com/giampaolo/pyftpdlib
 https://github.com/rasta-mouse/Sherlock
 https://github.com/GDSSecurity/Windows-Exploit-Suggester
+https://gist.github.com/random-robbie/beae1991e9ad139c6168c385d8a31f7d
+https://github.com/danielmiessler/SecLists
