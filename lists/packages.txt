@@ -43,4 +43,4 @@ nano
 vim
 gcc
 openvpn
-systemctl
+resolvconf
