@@ -1,0 +1,5 @@
+gnome-core
+kali-defaults
+kali-root-login
+desktop-base
+gnome-shell-extension-dashtodock
