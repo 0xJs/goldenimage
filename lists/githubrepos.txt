@@ -12,3 +12,6 @@ https://github.com/rasta-mouse/Sherlock
 https://github.com/GDSSecurity/Windows-Exploit-Suggester
 https://github.com/danielmiessler/SecLists
 https://github.com/iagox86/dnscat2
+https://github.com/juansacco/exploitpack
+https://github.com/OWASP/Amass
+https://github.com/michenriksen/aquatone

@@ -43,3 +43,6 @@ vim
 gcc
 openvpn
 resolvconf
+plink
+samba
+smbclient
