@@ -9,7 +9,6 @@ nbtscan
 netdiscover
 nmap
 dnsutils
-samba
 smbmap
 snmpcheck
 tcpdump

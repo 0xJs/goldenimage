@@ -5,13 +5,10 @@ https://github.com/rbsec/sslscan
 https://github.com/drwetter/testssl.sh
 https://github.com/rebootuser/LinEnum
 https://github.com/Veil-Framework/Veil
-https://github.com/BloodHoundAD/BloodHound
-https://github.com/fox-it/BloodHound.py
 https://github.com/EmpireProject/Empire
 https://github.com/gentilkiwi/mimikatz
 https://github.com/putterpanda/mimikittenz
-https://github.com/PowerShellEmpire/PowerTools
-https://github.com/giampaolo/pyftpdlib
 https://github.com/rasta-mouse/Sherlock
 https://github.com/GDSSecurity/Windows-Exploit-Suggester
 https://github.com/danielmiessler/SecLists
+https://github.com/iagox86/dnscat2
