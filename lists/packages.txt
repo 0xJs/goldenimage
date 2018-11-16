@@ -46,3 +46,5 @@ resolvconf
 plink
 samba
 smbclient
+virtualbox-guest-x11
+open-vm-tools-desktop fuse
