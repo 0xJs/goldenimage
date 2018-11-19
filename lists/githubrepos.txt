@@ -15,3 +15,4 @@ https://github.com/iagox86/dnscat2
 https://github.com/juansacco/exploitpack
 https://github.com/OWASP/Amass
 https://github.com/michenriksen/aquatone
+https://github.com/trustedsec/unicorn
