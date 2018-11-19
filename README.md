@@ -1,5 +1,7 @@
 # Goldenimage
 
+This script is written for a internship and used for upgrading a kali light system to their environment.
+
 Usage: ./golden_image.sh [-u] [-i] [-g] [-r]
 
 [-u] To update and upgrade the system and to update all github repositories listed in githubrepos.txt that do exist in /opt
