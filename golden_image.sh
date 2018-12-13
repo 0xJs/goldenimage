@@ -63,7 +63,7 @@ if [ ! -d $scriptpathlogs ]; then
 fi
 
 # While loop for al the options
-while getopts ':uigr' opt; do
+while getopts ':uigrsh' opt; do
   case "$opt" in
     u)
       #calling the check apt_update function to have its code executed
@@ -169,7 +169,7 @@ while getopts ':uigr' opt; do
       ;;
     s)
       echo ---------------------------------------------------------------------------;
-      echo ----------------Restarting the system in 10 seconds------------------------;
+      echo ---------------Shutting down the system in 10 seconds----------------------;
       echo ---------------------------------------------------------------------------;
       sleep 10;
       shutdown;
